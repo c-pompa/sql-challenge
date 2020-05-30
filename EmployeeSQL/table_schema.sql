@@ -1,5 +1,4 @@
-﻿
-CREATE TABLE "employees" (
+﻿CREATE TABLE "employees" (
     "emp_no" INTEGER   NOT NULL,
     "emp_title_id" VARCHAR(5)   NOT NULL,
     "birth_date" date   NOT NULL,
